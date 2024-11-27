@@ -1615,11 +1615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+      "projectUniqueName": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\To-Do-List-System\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+      "projectPath": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\To-Do-List-System\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
       "packagesPath": "C:\\Users\\jazri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\WinFormsApp1\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\To-Do-List-System\\WinFormsApp1\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
