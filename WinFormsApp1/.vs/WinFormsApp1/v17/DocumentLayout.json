@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D8D41-4BF4-429F-BD7A-E9B455CB2166}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\jazri\\desktop\\itecc05 activities\\finals\\winformsapp1\\winformsapp1\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0A3D8D41-4BF4-429F-BD7A-E9B455CB2166}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D8D41-4BF4-429F-BD7A-E9B455CB2166}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\jazri\\desktop\\itecc05 activities\\finals\\winformsapp1\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0A3D8D41-4BF4-429F-BD7A-E9B455CB2166}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D8D41-4BF4-429F-BD7A-E9B455CB2166}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\jazri\\desktop\\itecc05 activities\\finals\\winformsapp1\\winformsapp1\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0A3D8D41-4BF4-429F-BD7A-E9B455CB2166}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D8D41-4BF4-429F-BD7A-E9B455CB2166}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\jazri\\desktop\\itecc05 activities\\finals\\winformsapp1\\winformsapp1\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0A3D8D41-4BF4-429F-BD7A-E9B455CB2166}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D8D41-4BF4-429F-BD7A-E9B455CB2166}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\jazri\\desktop\\itecc05 activities\\finals\\winformsapp1\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0A3D8D41-4BF4-429F-BD7A-E9B455CB2166}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D8D41-4BF4-429F-BD7A-E9B455CB2166}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\jazri\\desktop\\itecc05 activities\\finals\\winformsapp1\\winformsapp1\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0A3D8D41-4BF4-429F-BD7A-E9B455CB2166}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.vb",
+              "ToolTip": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeToolTip": "WinFormsApp1\\Form1.vb",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-27T01:22:59.143Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\WinFormsApp1\\WinFormsApp1\\Form2.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.vb",
+              "ToolTip": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\WinFormsApp1\\WinFormsApp1\\Form2.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-27T01:56:23.871Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.vb",
+              "ToolTip": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\WinFormsApp1\\WinFormsApp1\\Form1.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-27T00:36:32.037Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\WinFormsApp1\\WinFormsApp1\\Form2.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.vb",
+              "ToolTip": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\WinFormsApp1\\WinFormsApp1\\Form2.vb",
+              "RelativeToolTip": "WinFormsApp1\\Form2.vb",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowCMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-27T01:58:22.395Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\WinFormsApp1\\WinFormsApp1\\Form3.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form3.vb",
+              "ToolTip": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\WinFormsApp1\\WinFormsApp1\\Form3.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-27T02:09:43.303Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\WinFormsApp1\\WinFormsApp1\\Form3.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form3.vb",
+              "ToolTip": "C:\\Users\\jazri\\Desktop\\ITECC05 Activities\\FINALS\\WinFormsApp1\\WinFormsApp1\\Form3.vb",
+              "RelativeToolTip": "WinFormsApp1\\Form3.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-27T02:22:17.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
