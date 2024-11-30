@@ -13,13 +13,24 @@ Public Class Form4
         Try
             conn.Open()
 
+            Dim checkQuerry As String = "SELECT COUNT(*) FROM todolistdb.tabletodolist WHERE todo = '" & toDoInput.Text & "'"
             Dim query As String
-            Dim no As String
             query = "INSERT INTO todolistdb.tabletodolist (todo, userid) Values ('" & toDoInput.Text & "', '" & id & "')"
-            COMMAND = New MySqlCommand(query, conn)
-            READER = COMMAND.ExecuteReader
+            COMMAND = New MySqlCommand(checkQuerry, conn)
+            Dim objectiveCount As Integer = Convert.ToInt32(COMMAND.ExecuteScalar())
 
-            MessageBox.Show("Objective Saved")
+            If objectiveCount = 0 Then Thenitecc
+                COMMAND = New MySqlCommand(query, conn)
+                COMMAND.ExecuteNonQuery()
+                MessageBox.Show("Objective Saved")
+
+            Else
+                MessageBox.Show("You already have that objective, please add a different one")
+            End If
+
+            toDoInput.Text = Nothing
+            Form3.RefreshToDoList()
+
             conn.Close()
 
         Catch ex As MySqlException

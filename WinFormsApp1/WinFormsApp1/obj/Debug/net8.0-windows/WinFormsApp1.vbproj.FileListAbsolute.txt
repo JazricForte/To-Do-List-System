@@ -68,3 +68,4 @@ C:\Users\jazri\Desktop\ITECC05 Activities\FINALS\To-Do-List-System\WinFormsApp1\
 C:\Users\jazri\Desktop\ITECC05 Activities\FINALS\To-Do-List-System\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
 C:\Users\jazri\Desktop\ITECC05 Activities\FINALS\To-Do-List-System\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\jazri\Desktop\ITECC05 Activities\FINALS\To-Do-List-System\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\jazri\Desktop\ITECC05 Activities\FINALS\To-Do-List-System\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form5.resources
