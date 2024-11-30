@@ -132,6 +132,8 @@ Public Class Form3
                 MessageBox.Show("Please pick an objective you want to delete")
             End If
 
+            pickedToDoList = Nothing
+
             conn.Close()
 
         Catch ex As MySqlException

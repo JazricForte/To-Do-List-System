@@ -11,19 +11,26 @@ Public Class Form5
 
         Try
             conn.Open()
+
+            Dim checkQuerry As String = "SELECT COUNT(*) FROM todolistdb.tabletodolist WHERE todo = '" & toDoInput.Text & "'"
             Dim query As String
             query = "UPDATE todolistdb.tabletodolist SET todo = '" & toDoInput.Text & "' WHERE todo = '" & (Form3.pickedToDoList) & "'"
-            COMMAND = New MySqlCommand(query, conn)
-            READER = COMMAND.ExecuteReader
+            COMMAND = New MySqlCommand(checkQuerry, conn)
+            Dim objectiveCount As Integer = Convert.ToInt32(COMMAND.ExecuteScalar())
 
-            Form3.RefreshToDoList()
+            If objectiveCount = 0 Then
+                COMMAND = New MySqlCommand(query, conn)
+                COMMAND.ExecuteNonQuery()
+                MessageBox.Show("Objective Saved")
 
-            MessageBox.Show("Data Updated")
-            conn.Close()
+            Else
+                MessageBox.Show("You already have that objective, please add a different one")
+            End If
 
             toDoInput.Text = Nothing
-            Form3.pickedToDoList = Nothing
-            Me.Hide()
+            Form3.RefreshToDoList()
+
+            conn.Close()
 
         Catch ex As MySqlException
             MessageBox.Show(ex.Message)
