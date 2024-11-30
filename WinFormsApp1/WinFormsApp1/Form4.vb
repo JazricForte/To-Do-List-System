@@ -19,7 +19,7 @@ Public Class Form4
             COMMAND = New MySqlCommand(checkQuerry, conn)
             Dim objectiveCount As Integer = Convert.ToInt32(COMMAND.ExecuteScalar())
 
-            If objectiveCount = 0 Then Thenitecc
+            If objectiveCount = 0 Then
                 COMMAND = New MySqlCommand(query, conn)
                 COMMAND.ExecuteNonQuery()
                 MessageBox.Show("Objective Saved")
